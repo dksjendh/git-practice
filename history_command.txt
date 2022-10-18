@@ -1,0 +1,174 @@
+    1  home/youngmin
+    2  pwd
+    3  cd
+    4  cd OSS
+    5  pwd
+    6  ls
+    7  pwd
+    8  ld
+    9  pwd
+   10  ls
+   11  cd OSS
+   12  cs OSS
+   13  pwd
+   14  ls
+   15  ls
+   16  cd Music
+   17  pwd
+   18  pwd
+   19  ls
+   20  cd . .
+   21  cd..
+   22  cd.
+   23  cd..
+   24  ls
+   25  cd .
+   26  cd . .
+   27  cd~
+   28  pwd
+   29  cd
+   30  cd Music
+   31  cd
+   32  cd..
+   33  cd . .
+   34  cd ..
+   35  cd..
+   36  ls
+   37  pwd
+   38  cd ..
+   39  cd ..
+   40  pwd
+   41  cd/J
+   42  cd/j
+   43  ls
+   44  pwd
+   45  ls
+   46  pwd
+   47  ls
+   48  cd/tmp
+   49  cd j
+   50  pwd
+   51  ls
+   52  cd 안녕하세요
+   53  ㅔㅈㅇ
+   54  pwd
+   55  ls -l
+   56  ls -lh
+   57  pwd
+   58  ls -l
+   59  ls -lh
+   60  ls -lh
+   61  ls /bin
+   62  ls -la ..
+   63  cd ..
+   64  ls 안녕하세요/
+   65  cd 안녕하세요/
+   66  \ls 안녕하세요/
+   67  clear
+   68  pwd
+   69  ls
+   70  cp 안 녕
+   71  cp 녕 안
+   72  cp 1 2
+   73  pwd
+   74  cd 하
+   75  cp -r ../요
+   76  cp ..
+   77  pwd
+   78  cd ..
+   79  cp 안 녕
+   80  cp안녕
+   81  cp 안녕
+   82  cp 안 녕
+   83  cp -r 안 녕
+   84  cp -r 하 요
+   85  ㅔㅈㅇ
+   86  mv 1 2
+   87  mv 안 언아 
+   88  rm 언아 세
+   89  rm 1 2
+   90  rm 광고 1
+   91  rm 1.jpg
+   92  mkdir 안
+   93  help cd
+   94  man cp
+   95  man
+   96  man cp
+   97  mancp
+   98  exit
+   99  cd j
+  100  ls j
+  101  cd j
+  102  pwd
+  103  ls -lh
+  104  ls -lh > file_list.txt
+  105  cat file_list.txt
+  106  cat word.txt
+  107  cat 에포나.txt
+  108  ls
+  109  pwd
+  110  cat words.txt
+  111  sort < words.txt
+  112  cat words.txt
+  113  sort < words.txt > sorted_words.txt
+  114  cat sorted_words.txt
+  115  ls -lh | less
+  116  ls -lh | less
+  117  pwd
+  118  cd ..
+  119  pwd
+  120  cd ..
+  121  cd ..
+  122  cd J
+  123  cd 안녕하세요
+  124  pwd
+  125  pwd
+  126  ls -lh | less
+  127  ls | wc -l
+  128  echo
+  129  echo *
+  130  echo ~
+  131  echo ~LEEKJ
+  132  echo ~안녕하세요
+  133  echo ~Lee
+  134  echo ~LEEKJ
+  135  ls -l
+  136  ls -l
+  137  ls -l --reverse --human-readable
+  138  ls -l /bin /bash
+  139  pwd
+  140  cd
+  141  pwd
+  142  cd .. ..
+  143  cd ..
+  144  cd ..
+  145  cd ..
+  146  cd J
+  147  cd 안녕하세요
+  148  pwd
+  149  chmod
+  150  chmod 600 some_file
+  151  chmod 600 안
+  152  ls
+  153  ls -lh
+  154  chmod 600 안녕하세요
+  155  chmod 777 안
+  156  ls -lh
+  157  chmod 777 광고.jpg
+  158  ls -lh
+  159  ls -lh
+  160  chmod 777 hello.txt
+  161  ls -lh
+  162  chmod 644 hello.txt
+  163  ls -lh
+  164  chmod 600 hello.txt
+  165  ls -lh
+  166  sudo some_command
+  167  sudo -i
+  168  sudo
+  169  nano myscript.sh
+  170  nano myscript.sh
+  171  ls -lh
+  172  sh myscript.sh
+  173  history
+  174  history > history_command.txt
